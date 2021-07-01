@@ -1,1 +1,4 @@
 node_modules
+temp.json
+*.env
+social.postman_collection.json
