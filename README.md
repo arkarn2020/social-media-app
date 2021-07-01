@@ -8,4 +8,4 @@
 
 ### replace userid, password & db name with Mongodb userid, password & db name
 
-MONGO_URL = mongodb+srv://<userid>:<password>@<db>.ietka.mongodb.net/social?retryWrites=true&w=majority
+MONGO_URL = mongodb+srv://`userid`:`password`@`db`.ietka.mongodb.net/social?retryWrites=true&w=majority
